@@ -1,10 +1,11 @@
-#include<uiostream>
+#include <iostream>
 using namespace std;
-sayhello(){
+  void sayhello(){
     cout << "Hello Visiter !";
 }
-int main(){
+int main()
+{
     sayhello();
-    
+
     return 0;
 }
